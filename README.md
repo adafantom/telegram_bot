@@ -24,8 +24,8 @@ $ python main.py
 
 Для получения API-токена и собственного ID в телеграм используются следующие телеграм-боты:
 
-[Бот-справочник](https://t.me/userinfobot)
-[Отец ботов](https://t.me/BotFather)
+1. [Бот-справочник](https://t.me/userinfobot)
+2. [Отец ботов](https://t.me/BotFather)
 
 
 Сам бот находится в телеграме по ссылке, которую присылает [Отец ботов](telegram.me/BotFather) - [Мини-таймер](https://t.me/MiniTimer_bot)
